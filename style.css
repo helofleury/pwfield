@@ -1,0 +1,16 @@
+label{
+  font: 1rem 'Fira Sans', sans-serif;
+  color: blue;
+}
+
+input{
+    margin: 0.4rem;
+}
+.configuracao_claro{
+    color: black;
+    background-color: white;
+}
+.configuracao_escuro{
+    color: white;
+    background-color: black;
+}
